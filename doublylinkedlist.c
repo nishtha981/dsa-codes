@@ -185,7 +185,7 @@ int main()
 				   printf("%d",list->no_nodes);
 				   if(pos<1 ||pos>list->no_nodes+1)
 				   {
-					   printf("invalid posistion\n");
+					   printf("invalid posistion \n");
 				   }
 				   else
 				   {
